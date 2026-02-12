@@ -1,6 +1,6 @@
 # Fluent Python — Study Notes
 
-![Cover](/assets/cover.jpg)
+![Cover](./assets/cover.png)
 
 Short, personal study repository for learning Python from "Fluent Python". Use the cover image located in the assets folder above. If the file name differs, update the image path to point to the actual image file (for example `./assets/cover.png`).
 
