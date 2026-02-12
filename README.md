@@ -1,6 +1,8 @@
 # Fluent Python — Study Notes
 
-![Cover](./assets/cover.png)
+<p align="center">
+  <img src="./assets/cover.png" alt="Cover" width="300">
+</p>
 
 Short, personal study repository for learning Python from "Fluent Python". Use the cover image located in the assets folder above. If the file name differs, update the image path to point to the actual image file (for example `./assets/cover.png`).
 
